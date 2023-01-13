@@ -1,5 +1,7 @@
 # AboutMe
+---
 **My name is Sakar.**
+---
 
 I am a *third year ECE student* focusing on the following pathways:
 1. Embedded Systems 
